@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\emreb\source\repos\PongGameFive\main.cpp(77,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\emreb\source\repos\PongGameFive\main.cpp(77,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\emreb\source\repos\PongGameFive\main.cpp(79,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\emreb\source\repos\PongGameFive\main.cpp(168,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\emreb\source\repos\PongGameFive\main.cpp(169,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\emreb\source\repos\PongGameFive\main.cpp(188,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\emreb\source\repos\PongGameFive\main.cpp(189,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\emreb\source\repos\PongGameFive\main.cpp(102): warning C4715: 'ball_wall_collision': not all control paths return a value
+  PongGameFive.vcxproj -> C:\Users\emreb\source\repos\PongGameFive\x64\Debug\PongGameFive.exe

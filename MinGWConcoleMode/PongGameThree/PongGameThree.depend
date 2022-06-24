@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649455008 source:c:\users\emreb\onedrive\masaüstü\ponggames\ponggamethree\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
